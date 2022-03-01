@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#232323</color>
+    <color name="colorAccent">#DA4003</color>
+    <color name="colorCard">#EDEDED</color>
+    <color name="colorPrimary">#000957</color>
+    <color name="colorPrimaryDark">#D3D3D3</color>
+    <string name="aplikasi">Daftar Buku</string>
+    <string name="aplikasi_daftar_buku">Aplikasi Daftar Buku</string>
+    <string name="app_name">Aplikasi Sederhana</string>
+    <string name="arief_yusuf_winata">Arief Yusuf Winata</string>
+    <string name="deskripsi">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</string>
+    <string name="detail">Detail Buku</string>
+    <string name="email">arief.winata26@gmail.com</string>
+    <string name="image">Image</string>
+    <string name="judul">Judul</string>
+    <string name="penulis">Penulis</string>
+    <string name="tentang">Tentang Aplikasi</string>
+    <style name="Theme.AplikasiSederhana" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+    <style name="Theme.SplashScreen" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
