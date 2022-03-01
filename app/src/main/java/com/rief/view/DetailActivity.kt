@@ -25,7 +25,7 @@ class DetailActivity : AppCompatActivity() {
         val tJudul = intent.getStringExtra(EXTRA_JUDUL)
         val tPenulis = intent.getStringExtra(EXTRA_PENULIS)
         val tDeskripsi = intent.getStringExtra(EXTRA_DEKSRIPSI)
-
+        //
         Glide.with(this)
             .load(tImage)
             .apply(RequestOptions())
