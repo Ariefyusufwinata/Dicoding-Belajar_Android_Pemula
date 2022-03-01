@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aplikasi Sederhana</string>
+    <string name="aplikasi">Daftar Buku</string>
+    <string name="tentang">Tentang Aplikasi</string>
+    <string name="detail">Detail Buku</string>
+    <string name="arief_yusuf_winata">Arief Yusuf Winata</string>
+    <string name="email">arief.winata26@gmail.com</string>
+    <string name="deskripsi">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</string>
+    <string name="image">Image</string>
+    <string name="aplikasi_daftar_buku">Aplikasi Daftar Buku</string>
+    <string name="judul">Judul</string>
+    <string name="penulis">Penulis</string>
+</resources>
